@@ -1,0 +1,10 @@
+SpeechRecognition
+pyttsx3
+pygame
+gTTS
+openai
+requests
+plyer
+pocketsphinx
+pipwin
+# pipwin install pyaudio

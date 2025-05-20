@@ -1,0 +1,5 @@
+Voice-env/
+__pycache__/
+*.pyc
+.env
+temp_jarvis.mp3
